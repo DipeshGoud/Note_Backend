@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const NoteSchema = require("../Schemas/noteSchema");
+const NoteSchema = require("../Schemas/NoteSchema");
 
 class Note {
     constructor({ title, content, userId, creationDateTime }) {
