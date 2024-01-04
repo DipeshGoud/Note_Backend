@@ -1,6 +1,3 @@
-
-To create documentation for your backend API and frontend, you can use tools like Swagger for API documentation and Markdown for README files. Here's an example structure you can follow:
-
 Backend API Documentation
 Auth Routes
 Register User
